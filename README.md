@@ -77,3 +77,5 @@ To increment the package version, update it in [`DESCRIPTION`](https://github.co
 - [plumber: programmatic usage](https://www.rplumber.io/articles/programmatic-usage.html)
 - [pkgdown](https://pkgdown.r-lib.org/)
 - [S4](http://adv-r.had.co.nz/S4.html)
+- [Zarr](https://github.com/zarr-developers)
+  - [LZ4 and ZSTD compression in R](https://github.com/traversc/qs)
